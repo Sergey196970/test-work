@@ -197,8 +197,9 @@ pre {
     font-size: 12px;
     font-weight: 300;
     line-height: 24px;
-    color: #70797C;
     text-decoration: none; }
+.page-footer__copyright p {
+      color: #70797C; }
 .page-footer__by-safe {
     position: absolute;
     bottom: -5px;
@@ -943,6 +944,8 @@ pre {
   .warning{
     width: 310px;
     margin: 0 auto 25px; }
+  .warning p{
+    color: #70797C; }
   .page-header{
     width: 100%;
     margin-bottom: -120px; }
